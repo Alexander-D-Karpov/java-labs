@@ -1,0 +1,21 @@
+<ArrayDeque>
+  <item>
+    <id>1</id>
+    <name>wfew</name>
+    <coordinates>
+      <x>123</x>
+      <y>23</y>
+    </coordinates>
+    <creationDate>1714660699351</creationDate>
+    <price>213</price>
+    <discount>2</discount>
+    <type>VIP</type>
+    <event>
+      <id>1</id>
+      <name>wfefew</name>
+      <ticketsCount>1324</ticketsCount>
+      <description>fe</description>
+      <eventType>FOOTBALL</eventType>
+    </event>
+  </item>
+</ArrayDeque>
